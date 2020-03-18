@@ -1,0 +1,6 @@
+C:\hans\vsprojektit\OlioHarjoitukset\Helpers\bin\Debug\Helpers.dll
+C:\hans\vsprojektit\OlioHarjoitukset\Helpers\bin\Debug\Helpers.pdb
+C:\hans\vsprojektit\OlioHarjoitukset\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\hans\vsprojektit\OlioHarjoitukset\Helpers\obj\Debug\Helpers.dll
+C:\hans\vsprojektit\OlioHarjoitukset\Helpers\obj\Debug\Helpers.pdb
+C:\hans\vsprojektit\OlioHarjoitukset\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
